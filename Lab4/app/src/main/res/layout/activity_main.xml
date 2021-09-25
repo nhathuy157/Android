@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="10"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_weight="1"
+        android:gravity="center">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:textSize="24sp"
+            android:text="@string/text1"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="351dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:weightSum="5">
+
+        <Button
+            android:id="@+id/btn_BT1"
+            android:layout_width="match_parent"
+            android:layout_height="63dp"
+            android:layout_weight="1"
+            android:text="@string/bai1" />
+
+        <Button
+            android:id="@+id/btn_BT2"
+            android:layout_width="match_parent"
+            android:layout_height="63dp"
+            android:layout_weight="1"
+            android:text="@string/bai2" />
+        <Button
+            android:id="@+id/btn_BT3"
+            android:layout_width="match_parent"
+            android:layout_height="63dp"
+            android:layout_weight="1"
+            android:text="@string/bai3" />
+
+    </LinearLayout>
+
+</LinearLayout>

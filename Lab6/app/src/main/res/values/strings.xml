@@ -1,0 +1,45 @@
+<resources>
+    // Giao diện
+    <string name="app_name">Lab6</string>
+    <string name="bt1">Bài 1</string>
+    <string name="bt2">Bài 2</string>
+    // Bài 1
+    <string name="author">Điền họ và tên của bạn</string>
+    <string name="computer">Điền tên máy đang dùng</string>
+    <string name="textbox_hint">Nhập số tiền</string>
+    <string name="app_name1">Chương trình đổi tiền</string>
+    <string name="usd_name">American Dollar</string>
+    <string name="eur_name">European Cash</string>
+    <string name="gbp_name">Greate Britain</string>
+    <string name="aud_name">Australia Dollar</string>
+    <string name="cad_name">Canadian Dollar</string>
+    <string name="zar_name">South Africa Rand</string>
+    <string name="nzd_name">New Zealand Dollar</string>
+    <string name="vnd_name">Việt Nam Đồng</string>
+
+    <string name="inr_name">Indian Rupe</string>
+    <string name="jpy_name">Yên Nhật</string>
+    <string name="usd_unit">USD</string>
+    <string name="eur_unit">EUR</string>
+    <string name="gbp_unit">GBP</string>
+    <string name="inr_unit">INR</string>
+    <string name="aud_unit">AUD</string>
+    <string name="cad_unit">CAD</string>
+    <string name="zar_unit">ZAR</string>
+    <string name="nzd_unit">NZD</string>
+    <string name="jpy_unit">JPY</string>
+    <string name="vnd_unit">VNĐ</string>
+    //Bài 2
+    <string name="app_name2">Đổi đơn vị đo chiều dài</string>
+    <string name="textbox_hint2">Nhập đơn vị</string>
+    <string name="text_v">Tương đương với</string>
+    <string name="HaiLy_unit">Hải lý</string>
+    <string name="Dam_unit">Dặm</string>
+    <string name="Kilometer_unit">Kilometer</string>
+    <string name="Ly_unit">Lý</string>
+    <string name="Met_unit">Met</string>
+    <string name="Yard_unit">Yard</string>
+    <string name="Foot_unit">Foot</string>
+    <string name="Inches_unit">Inches</string>
+
+</resources>

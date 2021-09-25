@@ -1,0 +1,95 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Lab4</string>
+    <string name="app_name1">Login</string>
+    <string name="app_name3">Face Emoji</string>
+    <string name="txt_login">Login</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="txt_forgot_pass">Forgot password?</string>
+    <string name="txt_register">Register</string>
+    <string name="txt_no_account" tools:ignore="StringEscaping">Don\'t have an account ?</string>
+    <string name="bai1">Bài 1</string>
+    <string name="bai2">Bài 2</string>
+    <string name="bai3">Bài 3</string>
+    <string name="text1">Lab 4</string>
+    <string name="app_name2">Từ vựng</string>
+    <string name="txt_mess">Essentials</string>
+    <string name="txt_plane">Traveling</string>
+    <string name="txt_hospital">Help</string>
+    <string name="txt_hotel">Hotel</string>
+    <string name="txt_restaurant">Restaurant</string>
+    <string name="txt_cocktail">Bar</string>
+    <string name="txt_store">Store</string>
+    <string name="txt_work">Work</string>
+    <string name="txt_time">Time</string>
+    <string name="txt_education">Education</string>
+    <string name="txt_movie">Entertainment</string>
+    //Mảng string
+    <string-array name="Essentials">
+        <item>"Computer"</item>
+        <item>"Device"</item>
+        <item>"Disk"</item>
+        <item>"Memory"</item>
+    </string-array>
+    <string-array name="Traveling">
+        <item>"Inclusive tour"</item>
+        <item>"Tourist destination"</item>
+        <item>"Schedule"</item>
+        <item>"Passport"</item>
+    </string-array>
+    <string-array name="Help">
+        <item>"Do someone a favor"</item>
+        <item>"Dangerous"</item>
+        <item>"Support"</item>
+        <item>"Assist"</item>
+    </string-array>
+    <string-array name="Hotel">
+        <item>"Reservation"</item>
+        <item>"Vacancy"</item>
+        <item>"Standard Room"</item>
+        <item>"Superior Room"</item>
+    </string-array>
+    <string-array name="Restaurant">
+        <item>"Appetizer"</item>
+        <item>"Entree"</item>
+        <item>"Dessert"</item>
+        <item>"Saute"</item>
+    </string-array>
+    <string-array name="Bar">
+        <item>"Club"</item>
+        <item>"Bartender"</item>
+        <item>"Dance"</item>
+        <item>"Barmade"</item>
+    </string-array>
+    <string-array name="Store">
+        <item>"Bookshop"</item>
+        <item>"Ironmonger"</item>
+        <item>"Barbers"</item>
+        <item>"Butchers"</item>
+    </string-array>
+    <string-array name="Work">
+        <item>"Workspace"</item>
+        <item>"Teamwork"</item>
+        <item>"Job"</item>
+        <item>"Profile"</item>
+    </string-array>
+    <string-array name="Time">
+        <item>"Workspace"</item>
+        <item>"Teamwork"</item>
+        <item>"Job"</item>
+        <item>"Profile"</item>
+    </string-array>
+    <string-array name="Education">
+        <item>"Workspace"</item>
+        <item>"Teamwork"</item>
+        <item>"Job"</item>
+        <item>"Profile"</item>
+    </string-array>
+    <string-array name="Entertainment">
+        <item>"Workspace"</item>
+        <item>"Teamwork"</item>
+        <item>"Job"</item>
+        <item>"Profile"</item>
+    </string-array>
+<string name="txt_random">RanDom</string>
+</resources>

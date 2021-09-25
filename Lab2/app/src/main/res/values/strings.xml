@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="text1">Lab2</string>
+    <string name="bai1">Bài 1</string>
+    <string name="bai2">Bài 2</string>
+    <string name="bai3">Bài 3</string>
+    <string name="bai1_text">Animal Sound</string>
+    <string name="btn_lui">Previous</string>
+    <string name="btn_toi">Next</string>
+    <string name="txt_loading">loading</string>
+    <string name="txt_name">Ali Connor</string>
+    <string name="txt_phone1">(650) 555-1234</string>
+    <string name="txt_title_mobile">Mobile</string>
+    <string name="txt_phone2">(323)555-6789</string>
+    <string name="txt_email">aliconnors@example.com</string>
+</resources>

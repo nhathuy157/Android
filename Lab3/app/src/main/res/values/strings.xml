@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Lab 3</string>
+    <string name="txt_rabbit">Rabbit</string>
+    <string name="txt_cat">Cat</string>
+    <string name="lt1">Luyện tập 1</string>
+    <string name="lt2">luyện tập 2</string>
+    <string name="bai1">Bài tập 2</string>
+    <string name="text1">Lab 3</string>
+    <string name="txt_on">ON</string>
+    <string name="txt_off">OFF</string>
+    <string name="txt_Helu">Welcome</string>
+    <string name="txt_email">Email Address</string>
+    <string name="txt_pass">Password</string>
+    <string name="txt_login">Login</string>
+    <string name="txt_TV">Tiếng Việt</string>
+    <string name="txt_TA">English</string>
+    <string name="txt_TP">Français</string>
+    <string name="txt_tb">Dont have account . Sign Up</string>
+    <string name="txt_desc">Rabbits are small mammals in the family Leporidae (along with the
+hare) of the order Lagomorpha (along with the pika). Oryctolagus cuniculus includes the
+European rabbit species and its descendants, the world\'s 305 breeds[1] of domestic rabbit.
+Sylvilagus includes 13 wild rabbit species, among them the seven types of cottontail. The
+European rabbit, which has been introduced on every continent except Antarctica, is familiar
+throughout the world as a wild prey animal and as a domesticated form of livestock and pet.
+With its widespread effect on ecologies and cultures, the rabbit (or bunny) is, in many areas
+of the world, a part of daily life—as food, clothing, a companion, and a source of artistic
+inspiration.</string>
+    <string name="txt_name">Rabbit</string>
+</resources>

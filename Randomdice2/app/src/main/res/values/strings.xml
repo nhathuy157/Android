@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Randomdice</string>
+    <string name="text">Tab to roll the Dice</string>
+</resources>

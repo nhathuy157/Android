@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="txt_Helu">accueil</string>
+    <string name="txt_email">adresse e-mail</string>
+    <string name="txt_pass">mot de passe</string>
+    <string name="txt_login">Connexion</string>
+    <string name="txt_tb">Ne pas avoir de compte .signer </string>
+</resources>

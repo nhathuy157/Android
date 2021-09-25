@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FF3700B3"
+    android:orientation="vertical"
+    tools:context=".Bai2">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:text="@string/txt_Helu"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="40sp"
+        android:textStyle="bold"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColorHint="@color/white"
+        android:textColor="@color/white"
+        android:hint="@string/txt_email"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:hint="@string/txt_pass"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="320dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/txt_login"
+        android:textColor="@color/black"
+        android:layout_gravity="center"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_tb"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/white"
+        android:fontFamily="sans-serif-light"
+        android:layout_gravity="center"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:orientation="horizontal"
+        android:layout_marginTop="50dp">
+        <TextView
+            android:id="@+id/tv_TV"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:fontFamily="sans-serif-light"
+            android:text="@string/txt_TV"/>
+        <TextView
+            android:id="@+id/tv_TA"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:fontFamily="sans-serif-light"
+            android:text="@string/txt_TA"/>
+        <TextView
+            android:id="@+id/tv_TP"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:fontFamily="sans-serif-light"
+            android:text="@string/txt_TP"/>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
