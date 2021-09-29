@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Lab7</string>
+    <string name="app_name1">Drawable Example</string>
+    <string name="app_name2">ChoseColor</string>
+    <string name="bt1">Bài 1</string>
+    <string name="bt2">Bài 2</string>
+    //Bài1
+    //TextView
+    <string name="txt_tv">Custom Button</string>
+    <string name="txt_tv1">Selectors</string>
+    <string name="txt_tv2">Shape + Selectors</string>
+    <string name="txt_tv3">Made by Nhật Huy 9 tủi</string>
+    <string name="txt_toast">No Die Can Win - No Love No Sad</string>
+    <string name="txt_tv4"> LOG IN</string>
+    <string name="txt_user">User   :</string>
+    <string name="txt_pass">Password :</string>
+    //Button
+    <string name="txt_btn1">COLORED SELECTOR</string>
+    <string name="txt_btn2">COLORED SELECTOR DISABLED</string>
+    <string name="txt_btn3">ROUND SHAPE</string>
+    <string name="txt_btn4">SHAPE WITH GRADIENT</string>
+    <string name="txt_btn5">SELECTOR SHAPE</string>
+    <string name="txt_btn6">TOAST</string>
+    <string name="txt_btn7">DIALOG</string>
+    <string name="btn_Login">LOGIN</string>
+    <string name="btn_Exit">EXIT</string>
+    //Bài2
+    //TextView
+    <string name="tv_1">RBG</string>
+    <string name="tv_2">CMY</string>
+
+
+</resources>
