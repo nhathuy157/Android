@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:weightSum="10"
+    android:layout_height="match_parent">
+    <deso1.nguyenanhnhathuy.lab9.MyCanvas
+        android:id="@+id/myCanvas"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/btn_Draw"
+            android:layout_width="140dp"
+            android:layout_height="match_parent"
+            android:text="Draw"/>
+        <EditText
+            android:id="@+id/et_nhap"
+            android:layout_marginStart="30dp"
+            android:layout_width="match_parent"
+            android:hint="Nhập số cột muốn vẽ"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+
+
+</LinearLayout>
+

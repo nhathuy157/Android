@@ -1,0 +1,70 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".game"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/txt_checkbox1"
+            android:layout_width="68dp"
+            android:layout_height="match_parent"
+            android:textColor="@color/black" />
+
+        <SeekBar
+            android:id="@+id/Seekbar1"
+            android:layout_width="match_parent"
+            android:thumb="@drawable/car1"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/txt_checkbox2"
+            android:layout_width="68dp"
+            android:layout_height="match_parent"
+            android:textColor="@color/black" />
+
+        <SeekBar
+            android:id="@+id/Seekbar2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:thumb="@drawable/car2" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/txt_checkbox3"
+            android:layout_width="68dp"
+            android:layout_height="match_parent"
+            android:textColor="@color/black" />
+
+        <SeekBar
+            android:id="@+id/Seekbar3"
+            android:layout_width="match_parent"
+            android:thumb="@drawable/car3"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+</LinearLayout>
